@@ -13,8 +13,8 @@ import org.json.simple.parser.ParseException;
 import model.payment.PaymentInfo;
 
 public class PaymentUtil {
-	private final static String IMP_KEY = "1520146562706415";
-	private final static String IMP_SECRET = "0BduHmXLN9SBbsuwHjdpANPzFeGXNy4cbmaq7wJTA8DcFYQFoZKOjGjZ0ybtVLTWRwJ5achuZ4OwIxgC";
+	private final static String IMP_KEY = "key";
+	private final static String IMP_SECRET = "secret";
 
 
 	// 토큰 발급 요청
