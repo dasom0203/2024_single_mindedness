@@ -1,4 +1,4 @@
-const API_KEY = "ffd7a00bf82dc39075ee0b14f3d23d7d"; // OpenWeatherMap API 키
+const API_KEY = "key"; // OpenWeatherMap API 키
 const COORDS = 'coords'; // 좌표 정보를 저장할 상수
 
 //DOM객체들 
