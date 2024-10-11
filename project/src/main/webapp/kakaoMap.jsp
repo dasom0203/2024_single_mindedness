@@ -8,9 +8,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <!-- kakao Map API 인증키 -->
-<script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=fecf06794382c055ec106573ef0aa278&libraries=services"></script>
-<script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=fecf06794382c055ec106573ef0aa278"></script>
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=APIKEY&libraries=services,clusterer,drawing"></script>
+<script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=key"></script>
+<script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=key"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=key"></script>
 
 </head>
 <body>
